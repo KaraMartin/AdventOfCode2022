@@ -1,2 +1,4 @@
-# Ignore all files that start with aoc_ in any directory
-**/aoc_*_input.txt
+# Ignore all input files
+aoc_0*_input.txt
+aoc_1*_input.txt
+aoc_2*_input.txt
