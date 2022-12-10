@@ -1,0 +1,2 @@
+# Ignore all files that start with aoc_ in any directory
+**/aoc_*_input.txt
